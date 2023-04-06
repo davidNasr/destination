@@ -1,0 +1,190 @@
+
+
+#title{
+    background-color: #FFF226  ;
+    color: #000;
+}
+
+ h1{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+} 
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar{
+    padding: 0 0 4.5rem 0;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 25px;
+}
+
+.nav-link{
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 20px;
+}
+
+.dropdown-menu{   
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 3px solid rgb(12 11 3 / 42%);
+}
+.dropdown-item{
+    background-color: #FFF226  ;
+}
+
+
+/* Download Buttons */
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-img{
+    width: 100%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    bottom: 25px;
+}
+
+/* @media (max-width:1028px) {
+    .title-img{
+        width: 60%;
+        position: static;
+        transform: rotate(0);
+    } 
+    #title{
+        text-align: center;
+    }
+    
+} */
+
+/* Features */
+
+#features{
+    padding: 7% 5%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.feature-title{
+    font-family: "Montserrat";
+    font-weight: 900;
+}
+
+
+.feature-img{
+    color: #fffc5d;
+    margin-bottom: 1rem;
+}
+
+.feature-img:hover{
+    color: #FFF226;
+}
+
+/* Testimonials */
+
+#testimonials{
+    padding: 3% 15% 6% 15%;
+    text-align: center;
+    background-color:#FFF226 ;
+    color: #000;
+}
+
+h2{
+    font-family: "Comfortaa";
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+}
+.testimonials-h3{
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: "Montserrat";
+    font-weight: 700;
+    
+}
+.stars{
+    color: #b3a044;
+    padding: 5px 10px 20px 10px;
+}
+
+.testimonial-img{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px 20px;
+}
+
+.reviewer{
+    position:relative;
+}
+
+.void{
+    height: 200px;
+    background-color: rgb(49, 91, 128);
+}
+
+
+/* Pricing */
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+
+
+/* Contact */
+#contact{
+    background-color: #000;
+    padding: 3% 5%;
+}
+
+.contact-col{
+    padding: 3% 5%;
+}
+
+.contact-item{
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-size: 1rem;
+    padding-left: 10px;
+    color: #e0e0e0;
+}
+
+
+
